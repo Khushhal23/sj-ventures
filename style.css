@@ -7888,6 +7888,11 @@ figcaption {
   overflow: hidden;
 }
 
+
+#pitch{
+    border-bottom: 0px!important;
+}
+
 .hamburger-menu-lines-wrapper {
   grid-row-gap: 18px;
   flex-direction: column;
